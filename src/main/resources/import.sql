@@ -1,0 +1,4 @@
+
+INSERT INTO deudor (numero, fecha_ingreso, tipo, rut, razon_social, cant, deudores, monto_total) VALUES ('000234378', '26/06/2020', 'Stock', '733665534', 'Adentu ingenieria SPA', '2', '4', '1500.00');
+INSERT INTO deudor (numero, fecha_ingreso, tipo, rut, razon_social, cant, deudores, monto_total) VALUES ('000234378', '26/06/2020', 'Nuevo', '733665534', 'Adentu ingenieria SPA', '2', '3', '1800.00');
+INSERT INTO deudor (numero, fecha_ingreso, tipo, rut, razon_social, cant, deudores, monto_total) VALUES ('000234378', '26/06/2020', 'Stock', '733665534', 'Adentu ingenieria SPA', '2', '6', '2200.00');
